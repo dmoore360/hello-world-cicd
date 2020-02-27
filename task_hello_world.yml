@@ -7,4 +7,4 @@ image_resource:
 
 run:
   path: echo
-  args: [hello world, from my GitHub]
+  args: [hello world, from my GitHub v.1]
